@@ -1,0 +1,7618 @@
+[
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-6-CN"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-BN"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-BP"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-CPC"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-CPD"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-CPP"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-FM"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "643-7-FY"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "72162-1-P"
+  },
+  {
+    "GROUP_CODE": "10357-2",
+    "TEST_CODE": "72163-9-P"
+  },
+  {
+    "GROUP_CODE": "12841-3G",
+    "TEST_CODE": "12841-3"
+  },
+  {
+    "GROUP_CODE": "12841-3G",
+    "TEST_CODE": "83112-3"
+  },
+  {
+    "GROUP_CODE": "12841-3G",
+    "TEST_CODE": "83113-1"
+  },
+  {
+    "GROUP_CODE": "12841-3GR",
+    "TEST_CODE": "12841-3R"
+  },
+  {
+    "GROUP_CODE": "12841-3GR",
+    "TEST_CODE": "83112-3R"
+  },
+  {
+    "GROUP_CODE": "12841-3GR",
+    "TEST_CODE": "83113-1R"
+  },
+  {
+    "GROUP_CODE": "13458-5G",
+    "TEST_CODE": "13458-5"
+  },
+  {
+    "GROUP_CODE": "13458-5G",
+    "TEST_CODE": "14927-8"
+  },
+  {
+    "GROUP_CODE": "14158-0M",
+    "TEST_CODE": "14158-0"
+  },
+  {
+    "GROUP_CODE": "14158-0M",
+    "TEST_CODE": "3167-4M"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-BN"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-BP"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-CN"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-CPC"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-CPD"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-CPP"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-FM"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "14357-8-FY"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "26454-9"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "26465-5"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "26472-1"
+  },
+  {
+    "GROUP_CODE": "14357-8",
+    "TEST_CODE": "26479-6"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-BN"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-BP"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-CN"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-CPC"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-CPD"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-CPP"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-FM"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "14359-4-FY"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "26457-2"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "30409-7"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "35097-5"
+  },
+  {
+    "GROUP_CODE": "14359-4",
+    "TEST_CODE": "LP14419-3"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-BN"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-BP"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-CN"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-CPC"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-CPD"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-CPP"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-FM"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "14360-2-FY"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "26467-1P"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "26481-2"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "30408-9"
+  },
+  {
+    "GROUP_CODE": "14360-2",
+    "TEST_CODE": "794-8"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "12211-9"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "12226-7"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "14370-1"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "20502-1"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "43398-7"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "43400-1"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48051-7"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48712-4-BN"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48712-4-BP"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48712-4-CN"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48712-4-CPC"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48712-4-CPD"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "48712-4-CPP"
+  },
+  {
+    "GROUP_CODE": "14361-0",
+    "TEST_CODE": "6565-6"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-BN"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-BP"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-CN"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-CPC"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-CPD"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-CPP"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-FM"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "14362-8-FY"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "72162-1"
+  },
+  {
+    "GROUP_CODE": "14362-8",
+    "TEST_CODE": "72163-9"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-BN"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-BP"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-CN"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-CPC"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-CPD"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-CPP"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-FM"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "14363-6-FY"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "26458-0"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "26469-7"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "26483-8"
+  },
+  {
+    "GROUP_CODE": "14363-6",
+    "TEST_CODE": "30410-5"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-BN"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-BP"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-CN"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-CPC"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-CPD"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-CPP"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-FM"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "14364-4-FY"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "72162-1-E"
+  },
+  {
+    "GROUP_CODE": "14364-4",
+    "TEST_CODE": "72163-9-E"
+  },
+  {
+    "GROUP_CODE": "14477-4",
+    "TEST_CODE": "GXN51597-3G"
+  },
+  {
+    "GROUP_CODE": "14477-4",
+    "TEST_CODE": "33511-7"
+  },
+  {
+    "GROUP_CODE": "14477-4",
+    "TEST_CODE": "41026-6MB"
+  },
+  {
+    "GROUP_CODE": "14477-4",
+    "TEST_CODE": "LP373753-5"
+  },
+  {
+    "GROUP_CODE": "14630-8G",
+    "TEST_CODE": "14629-0"
+  },
+  {
+    "GROUP_CODE": "14630-8G",
+    "TEST_CODE": "14630-8"
+  },
+  {
+    "GROUP_CODE": "14630-8G",
+    "TEST_CODE": "14631-6"
+  },
+  {
+    "GROUP_CODE": "14630-8GR",
+    "TEST_CODE": "14629-0R"
+  },
+  {
+    "GROUP_CODE": "14630-8GR",
+    "TEST_CODE": "14630-8R"
+  },
+  {
+    "GROUP_CODE": "14630-8GR",
+    "TEST_CODE": "14631-6R"
+  },
+  {
+    "GROUP_CODE": "14637-3G",
+    "TEST_CODE": "14637-3"
+  },
+  {
+    "GROUP_CODE": "14637-3G",
+    "TEST_CODE": "3167-4-1"
+  },
+  {
+    "GROUP_CODE": "14637-3G",
+    "TEST_CODE": "71790-0-1"
+  },
+  {
+    "GROUP_CODE": "14801-5G",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "14801-5G",
+    "TEST_CODE": "14800-7"
+  },
+  {
+    "GROUP_CODE": "14801-5G",
+    "TEST_CODE": "14801-5"
+  },
+  {
+    "GROUP_CODE": "14801-5G",
+    "TEST_CODE": "3034-6"
+  },
+  {
+    "GROUP_CODE": "14801-5GR",
+    "TEST_CODE": "14798-3R"
+  },
+  {
+    "GROUP_CODE": "14801-5GR",
+    "TEST_CODE": "14800-7R"
+  },
+  {
+    "GROUP_CODE": "14801-5GR",
+    "TEST_CODE": "14801-5R"
+  },
+  {
+    "GROUP_CODE": "14801-5GR",
+    "TEST_CODE": "3034-6R"
+  },
+  {
+    "GROUP_CODE": "14881-7G",
+    "TEST_CODE": "13539-2"
+  },
+  {
+    "GROUP_CODE": "14881-7G",
+    "TEST_CODE": "13539-2-1"
+  },
+  {
+    "GROUP_CODE": "14881-7G",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "14913-8G",
+    "TEST_CODE": "13967-5"
+  },
+  {
+    "GROUP_CODE": "14913-8G",
+    "TEST_CODE": "14913-8M"
+  },
+  {
+    "GROUP_CODE": "14913-8G",
+    "TEST_CODE": "14913-8SHBG"
+  },
+  {
+    "GROUP_CODE": "14935-1G",
+    "TEST_CODE": "14935-1"
+  },
+  {
+    "GROUP_CODE": "14935-1G",
+    "TEST_CODE": "14935-1-1"
+  },
+  {
+    "GROUP_CODE": "14935-1G",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "17898-8",
+    "TEST_CODE": "626-2"
+  },
+  {
+    "GROUP_CODE": "17898-8",
+    "TEST_CODE": "89656-3"
+  },
+  {
+    "GROUP_CODE": "17898-8",
+    "TEST_CODE": "LP373748-5"
+  },
+  {
+    "GROUP_CODE": "19049-6G",
+    "TEST_CODE": "19049-6"
+  },
+  {
+    "GROUP_CODE": "19049-6G",
+    "TEST_CODE": "3167-4M-1"
+  },
+  {
+    "GROUP_CODE": "1995-0G",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "1995-0G",
+    "TEST_CODE": "1995-0"
+  },
+  {
+    "GROUP_CODE": "1995-0G",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "1995-0GR",
+    "TEST_CODE": "1995-0R"
+  },
+  {
+    "GROUP_CODE": "1995-0GR",
+    "TEST_CODE": "2000-8R"
+  },
+  {
+    "GROUP_CODE": "20416-4-1",
+    "TEST_CODE": "20416-4"
+  },
+  {
+    "GROUP_CODE": "20416-4-1",
+    "TEST_CODE": "20416-4-2"
+  },
+  {
+    "GROUP_CODE": "20416-4-1O",
+    "TEST_CODE": "20416-4-2O"
+  },
+  {
+    "GROUP_CODE": "20416-4-1O",
+    "TEST_CODE": "20416-4O"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "10704-5"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "13655-6"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "17773-3"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "20924-7"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "29636-8"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "33668-5"
+  },
+  {
+    "GROUP_CODE": "20926-2",
+    "TEST_CODE": "9397-1"
+  },
+  {
+    "GROUP_CODE": "21198-7G",
+    "TEST_CODE": "21198-7"
+  },
+  {
+    "GROUP_CODE": "21198-7G",
+    "TEST_CODE": "8665-2"
+  },
+  {
+    "GROUP_CODE": 22503,
+    "TEST_CODE": "22503-1"
+  },
+  {
+    "GROUP_CODE": 22503,
+    "TEST_CODE": "22503-2"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "21511-1"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "21513-7"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "27938-0"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "33470-6"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "34369-9"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "34370-7"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "34372-3"
+  },
+  {
+    "GROUP_CODE": "22527-6",
+    "TEST_CODE": "34431-7"
+  },
+  {
+    "GROUP_CODE": "23876-6D",
+    "TEST_CODE": "23876-6D-1"
+  },
+  {
+    "GROUP_CODE": "23876-6D",
+    "TEST_CODE": "23876-6D-2"
+  },
+  {
+    "GROUP_CODE": "24125-7",
+    "TEST_CODE": "13967-5"
+  },
+  {
+    "GROUP_CODE": "24125-7",
+    "TEST_CODE": "24125-7C"
+  },
+  {
+    "GROUP_CODE": "24125-7",
+    "TEST_CODE": "83116-4"
+  },
+  {
+    "GROUP_CODE": "24317-0",
+    "TEST_CODE": "32207-3"
+  },
+  {
+    "GROUP_CODE": "24317-0",
+    "TEST_CODE": "32623-1"
+  },
+  {
+    "GROUP_CODE": "24317-0",
+    "TEST_CODE": "777-3"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "32207-3"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "32623-1"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "4544-3"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "53115-2"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "57023-4-C"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "58413-6"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "5905-5"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "6690-2"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "704-7"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "706-2"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "711-2"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "713-8"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "71695-1"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "718-7"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "731-0"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "736-9"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "742-7"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "751-8"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "770-8"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "770-9"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "771-6"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "777-3"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "785-6"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "786-4"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "787-2"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "788-0"
+  },
+  {
+    "GROUP_CODE": "24317-0_NRL",
+    "TEST_CODE": "789-8"
+  },
+  {
+    "GROUP_CODE": "24317-0C",
+    "TEST_CODE": "32207-3"
+  },
+  {
+    "GROUP_CODE": "24317-0C",
+    "TEST_CODE": "32623-1"
+  },
+  {
+    "GROUP_CODE": "24317-0C",
+    "TEST_CODE": "777-3"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "2078-4-1"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "2079-2"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "2828-2-1"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "2829-0"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "2956-1"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "24329-5",
+    "TEST_CODE": "35678-2-1"
+  },
+  {
+    "GROUP_CODE": "24329-5-1",
+    "TEST_CODE": "2078-4"
+  },
+  {
+    "GROUP_CODE": "24329-5-1",
+    "TEST_CODE": "2828-2"
+  },
+  {
+    "GROUP_CODE": "24329-5-1",
+    "TEST_CODE": "35678-2"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "2078-4R"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "2079-2R"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "2828-2R"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "2829-0R"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "2956-1R"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "24329-5R",
+    "TEST_CODE": "35678-2R"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "13978-2"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "13980-8"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "13981-6"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "13982-4"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "13983-2"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "1759-0"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "24351-9-C"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "2862-1"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "2865-4"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "2868-8"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "2871-2"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "2874-6"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "32731-2"
+  },
+  {
+    "GROUP_CODE": "24351-9",
+    "TEST_CODE": "32733-8"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "13978-2"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "13980-8"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "13981-6"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "13982-4"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "13983-2"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "1759-0"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "24351-9-C"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "2862-1"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "2865-4"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "2868-8"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "2871-2"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "2874-6"
+  },
+  {
+    "GROUP_CODE": "24351-9R",
+    "TEST_CODE": "2885-2R"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "4544-3"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "53115-2"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "58413-6"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "6690-2"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "71695-1"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "718-7"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "771-6"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "785-6"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "786-4"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "787-2"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "788-0"
+  },
+  {
+    "GROUP_CODE": "24358-4",
+    "TEST_CODE": "789-8"
+  },
+  {
+    "GROUP_CODE": "25550-5G",
+    "TEST_CODE": "25550-5"
+  },
+  {
+    "GROUP_CODE": "25550-5G",
+    "TEST_CODE": "25550-5-1"
+  },
+  {
+    "GROUP_CODE": "25550-5G",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "2569-2G",
+    "TEST_CODE": "14647-2"
+  },
+  {
+    "GROUP_CODE": "2569-2G",
+    "TEST_CODE": "14927-8"
+  },
+  {
+    "GROUP_CODE": "2569-2G",
+    "TEST_CODE": "2569-2"
+  },
+  {
+    "GROUP_CODE": "2736-7G",
+    "TEST_CODE": "2736-7"
+  },
+  {
+    "GROUP_CODE": "2736-7G",
+    "TEST_CODE": "2736-7R"
+  },
+  {
+    "GROUP_CODE": "2736-7G",
+    "TEST_CODE": "2738-3"
+  },
+  {
+    "GROUP_CODE": "2889-4G",
+    "TEST_CODE": "2889-4"
+  },
+  {
+    "GROUP_CODE": "2889-4G",
+    "TEST_CODE": "2889-4-1"
+  },
+  {
+    "GROUP_CODE": "2889-4G",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "29581-6M",
+    "TEST_CODE": "26482-0"
+  },
+  {
+    "GROUP_CODE": "29581-6M",
+    "TEST_CODE": "26514-0"
+  },
+  {
+    "GROUP_CODE": "29583-2M",
+    "TEST_CODE": "26479-6M"
+  },
+  {
+    "GROUP_CODE": "29583-2M",
+    "TEST_CODE": "30455-0"
+  },
+  {
+    "GROUP_CODE": "29583-2ME",
+    "TEST_CODE": "26481-2M"
+  },
+  {
+    "GROUP_CODE": "29583-2ME",
+    "TEST_CODE": "30455-0M"
+  },
+  {
+    "GROUP_CODE": "29615-2-1",
+    "TEST_CODE": "29615-2"
+  },
+  {
+    "GROUP_CODE": "29615-2-1",
+    "TEST_CODE": "29615-2-2"
+  },
+  {
+    "GROUP_CODE": "29615-2-1O",
+    "TEST_CODE": "29615-2-2O"
+  },
+  {
+    "GROUP_CODE": "29615-2-1O",
+    "TEST_CODE": "29615-2O"
+  },
+  {
+    "GROUP_CODE": "29891-9",
+    "TEST_CODE": "LP15150-3"
+  },
+  {
+    "GROUP_CODE": "29891-9",
+    "TEST_CODE": "LP15150-3-X"
+  },
+  {
+    "GROUP_CODE": "30247-1",
+    "TEST_CODE": "30247-1-1"
+  },
+  {
+    "GROUP_CODE": "30247-1",
+    "TEST_CODE": "30247-1-2"
+  },
+  {
+    "GROUP_CODE": "30341-2",
+    "TEST_CODE": "30341-2-1"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7-BN"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7-BP"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7C-CPP"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7-CN"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7CPC"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7-CPD"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7-FM"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "32026-7-FY"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "72162-1-N"
+  },
+  {
+    "GROUP_CODE": "32026-7",
+    "TEST_CODE": "72163-9-N"
+  },
+  {
+    "GROUP_CODE": "32141-4",
+    "TEST_CODE": "14725-6"
+  },
+  {
+    "GROUP_CODE": "32141-4",
+    "TEST_CODE": "82190-0"
+  },
+  {
+    "GROUP_CODE": "32141-4",
+    "TEST_CODE": "82191-8"
+  },
+  {
+    "GROUP_CODE": "32309-7G",
+    "TEST_CODE": "14646-4"
+  },
+  {
+    "GROUP_CODE": "32309-7G",
+    "TEST_CODE": "14647-2"
+  },
+  {
+    "GROUP_CODE": "32309-7G",
+    "TEST_CODE": "32309-7"
+  },
+  {
+    "GROUP_CODE": "32357-6",
+    "TEST_CODE": "13655-6"
+  },
+  {
+    "GROUP_CODE": "32357-6",
+    "TEST_CODE": "17773-3"
+  },
+  {
+    "GROUP_CODE": "32357-6",
+    "TEST_CODE": "29636-8"
+  },
+  {
+    "GROUP_CODE": "32357-6",
+    "TEST_CODE": "33668-5"
+  },
+  {
+    "GROUP_CODE": "32357-6",
+    "TEST_CODE": "9397-1"
+  },
+  {
+    "GROUP_CODE": "32357-6",
+    "TEST_CODE": "LP39248-7"
+  },
+  {
+    "GROUP_CODE": "32546-4",
+    "TEST_CODE": "2359-8"
+  },
+  {
+    "GROUP_CODE": "32546-4",
+    "TEST_CODE": "32546-4C"
+  },
+  {
+    "GROUP_CODE": "32546-4",
+    "TEST_CODE": "718-7"
+  },
+  {
+    "GROUP_CODE": "32685-0G",
+    "TEST_CODE": "24113-3"
+  },
+  {
+    "GROUP_CODE": "32685-0G",
+    "TEST_CODE": "32685-0"
+  },
+  {
+    "GROUP_CODE": "32685-0G",
+    "TEST_CODE": "83100-8"
+  },
+  {
+    "GROUP_CODE": "34366-5G",
+    "TEST_CODE": "14683-7"
+  },
+  {
+    "GROUP_CODE": "34366-5G",
+    "TEST_CODE": "2888-6"
+  },
+  {
+    "GROUP_CODE": "34366-5G",
+    "TEST_CODE": "34366-5"
+  },
+  {
+    "GROUP_CODE": "34366-5GR",
+    "TEST_CODE": "14683-7R"
+  },
+  {
+    "GROUP_CODE": "34366-5GR",
+    "TEST_CODE": "2888-6R"
+  },
+  {
+    "GROUP_CODE": "34366-5GR",
+    "TEST_CODE": "34366-5R"
+  },
+  {
+    "GROUP_CODE": "34530-6",
+    "TEST_CODE": "10331-7"
+  },
+  {
+    "GROUP_CODE": "34530-6",
+    "TEST_CODE": "883-9"
+  },
+  {
+    "GROUP_CODE": "34530-6C",
+    "TEST_CODE": "10331-7"
+  },
+  {
+    "GROUP_CODE": "34530-6C",
+    "TEST_CODE": "883-9"
+  },
+  {
+    "GROUP_CODE": "34539-6I",
+    "TEST_CODE": "10331-7"
+  },
+  {
+    "GROUP_CODE": "34539-6I",
+    "TEST_CODE": "883-9"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "2888-6M"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "3167-4M"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "38190-5"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "6942-7"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "9405-2"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "9734-5"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "9744-4"
+  },
+  {
+    "GROUP_CODE": "34539-7G",
+    "TEST_CODE": "9745-1"
+  },
+  {
+    "GROUP_CODE": "34551-2",
+    "TEST_CODE": "2216-0"
+  },
+  {
+    "GROUP_CODE": "34551-2",
+    "TEST_CODE": "2230-1"
+  },
+  {
+    "GROUP_CODE": "34551-2",
+    "TEST_CODE": "2666-6"
+  },
+  {
+    "GROUP_CODE": "34555-3",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "34555-3",
+    "TEST_CODE": "14684-5"
+  },
+  {
+    "GROUP_CODE": "34555-3",
+    "TEST_CODE": "14684-5-1"
+  },
+  {
+    "GROUP_CODE": "34555-3",
+    "TEST_CODE": "2164-2"
+  },
+  {
+    "GROUP_CODE": "34555-3",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "34555-3",
+    "TEST_CODE": "3168-2"
+  },
+  {
+    "GROUP_CODE": "34555-3R",
+    "TEST_CODE": "14682-9R"
+  },
+  {
+    "GROUP_CODE": "34555-3R",
+    "TEST_CODE": "14683-7R"
+  },
+  {
+    "GROUP_CODE": "34555-3R",
+    "TEST_CODE": "14684-5R"
+  },
+  {
+    "GROUP_CODE": "34555-3R",
+    "TEST_CODE": "2164-2R"
+  },
+  {
+    "GROUP_CODE": "34555-3R",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "34555-3R",
+    "TEST_CODE": "3168-2R"
+  },
+  {
+    "GROUP_CODE": "34558-7",
+    "TEST_CODE": "26457-2M"
+  },
+  {
+    "GROUP_CODE": "34558-7",
+    "TEST_CODE": "26468-9"
+  },
+  {
+    "GROUP_CODE": "34561-1",
+    "TEST_CODE": "26456-4"
+  },
+  {
+    "GROUP_CODE": "34561-1",
+    "TEST_CODE": "26467-1"
+  },
+  {
+    "GROUP_CODE": "34561-1M",
+    "TEST_CODE": "26456-4M"
+  },
+  {
+    "GROUP_CODE": "34561-1M",
+    "TEST_CODE": "26467-1M"
+  },
+  {
+    "GROUP_CODE": "34714-6G",
+    "TEST_CODE": "34714-6"
+  },
+  {
+    "GROUP_CODE": "34714-6G",
+    "TEST_CODE": "5902-2"
+  },
+  {
+    "GROUP_CODE": "34714-6G",
+    "TEST_CODE": "5964-2"
+  },
+  {
+    "GROUP_CODE": "35086-8M",
+    "TEST_CODE": "20450-3"
+  },
+  {
+    "GROUP_CODE": "35086-8M",
+    "TEST_CODE": "20465-1"
+  },
+  {
+    "GROUP_CODE": "35086-8M",
+    "TEST_CODE": "2250-9"
+  },
+  {
+    "GROUP_CODE": "35086-8M",
+    "TEST_CODE": "I0001_Image"
+  },
+  {
+    "GROUP_CODE": "35591-7G",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "35591-7G",
+    "TEST_CODE": "29463-7"
+  },
+  {
+    "GROUP_CODE": "35591-7G",
+    "TEST_CODE": "30525-0"
+  },
+  {
+    "GROUP_CODE": "35591-7G",
+    "TEST_CODE": "35591-7"
+  },
+  {
+    "GROUP_CODE": "35591-7GR",
+    "TEST_CODE": "14682-9R"
+  },
+  {
+    "GROUP_CODE": "35591-7GR",
+    "TEST_CODE": "29463-7"
+  },
+  {
+    "GROUP_CODE": "35591-7GR",
+    "TEST_CODE": "30525-0"
+  },
+  {
+    "GROUP_CODE": "35591-7GR",
+    "TEST_CODE": "35591-7R"
+  },
+  {
+    "GROUP_CODE": "35706-1",
+    "TEST_CODE": "10834-0"
+  },
+  {
+    "GROUP_CODE": "35706-1",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "35706-1",
+    "TEST_CODE": "1759-0"
+  },
+  {
+    "GROUP_CODE": "35706-1",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "35706-1R",
+    "TEST_CODE": "10834-0R"
+  },
+  {
+    "GROUP_CODE": "35706-1R",
+    "TEST_CODE": "1751-7R"
+  },
+  {
+    "GROUP_CODE": "35706-1R",
+    "TEST_CODE": "1759-0R"
+  },
+  {
+    "GROUP_CODE": "35706-1R",
+    "TEST_CODE": "2885-2R"
+  },
+  {
+    "GROUP_CODE": "42332-7G",
+    "TEST_CODE": "1834-1"
+  },
+  {
+    "GROUP_CODE": "42332-7G",
+    "TEST_CODE": "42332-7"
+  },
+  {
+    "GROUP_CODE": "42332-7G",
+    "TEST_CODE": "93768-0"
+  },
+  {
+    "GROUP_CODE": "44806-8",
+    "TEST_CODE": "21416-3"
+  },
+  {
+    "GROUP_CODE": "44806-8",
+    "TEST_CODE": "6357-8"
+  },
+  {
+    "GROUP_CODE": "44807-6",
+    "TEST_CODE": "21415-5"
+  },
+  {
+    "GROUP_CODE": "44807-6",
+    "TEST_CODE": "77577-5"
+  },
+  {
+    "GROUP_CODE": "45068-4",
+    "TEST_CODE": "21190-4"
+  },
+  {
+    "GROUP_CODE": "45068-4",
+    "TEST_CODE": "21414-8"
+  },
+  {
+    "GROUP_CODE": "46987-4GM",
+    "TEST_CODE": "17859-0"
+  },
+  {
+    "GROUP_CODE": "46987-4GM",
+    "TEST_CODE": "46987-4"
+  },
+  {
+    "GROUP_CODE": "48796-7M",
+    "TEST_CODE": "1743-4"
+  },
+  {
+    "GROUP_CODE": "48796-7M",
+    "TEST_CODE": "1835-8"
+  },
+  {
+    "GROUP_CODE": "48796-7M",
+    "TEST_CODE": "1869-7"
+  },
+  {
+    "GROUP_CODE": "48796-7M",
+    "TEST_CODE": "1975-2"
+  },
+  {
+    "GROUP_CODE": "48796-7M",
+    "TEST_CODE": "2324-2M"
+  },
+  {
+    "GROUP_CODE": "48796-7M",
+    "TEST_CODE": "4542-7"
+  },
+  {
+    "GROUP_CODE": "48798-3M",
+    "TEST_CODE": "25373-2"
+  },
+  {
+    "GROUP_CODE": "48798-3M",
+    "TEST_CODE": "32046-5"
+  },
+  {
+    "GROUP_CODE": "48798-3M",
+    "TEST_CODE": "I0001_Image"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "12453-7"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "20453-7"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "30391-7"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "30405-5"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "32356-8"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "49755-2"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "51484-4"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "53270-5"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "53271-3"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "53272-1"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "53294-5"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "53320-8"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "5766-1"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "5774-5"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "5775-2"
+  },
+  {
+    "GROUP_CODE": "50554-5",
+    "TEST_CODE": "72224-9"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50553-7"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50557-8"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50558-6"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50560-2"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50561-0"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50562-8"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "50563-6"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "53327-3"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "53328-1"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "57747-8"
+  },
+  {
+    "GROUP_CODE": "50556-0",
+    "TEST_CODE": "58805-3"
+  },
+  {
+    "GROUP_CODE": "5231-5",
+    "TEST_CODE": "2075-0"
+  },
+  {
+    "GROUP_CODE": "5231-5",
+    "TEST_CODE": "2823-3"
+  },
+  {
+    "GROUP_CODE": "5231-5",
+    "TEST_CODE": "2951-2"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "31627-3D"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "53016-2D"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "53018-8D1"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "53032-9"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "53981-7D"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "8076-2D"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "8092-9D"
+  },
+  {
+    "GROUP_CODE": "53018-8D",
+    "TEST_CODE": "8094-5D"
+  },
+  {
+    "GROUP_CODE": "53558-3G",
+    "TEST_CODE": "53558-31"
+  },
+  {
+    "GROUP_CODE": "53558-3G",
+    "TEST_CODE": "88157-3"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "14135-8P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "24467-3P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "54218-3P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "6690-2P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "731-0P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "736-9P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "8101-8P"
+  },
+  {
+    "GROUP_CODE": 54218,
+    "TEST_CODE": "8123-2P"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "10569-2"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "10580-9"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "10611-2"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "10613-8"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "10622-9"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "2752-4"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "3160-9"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "38500-5"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "40695-9"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "57443-4"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "72517-6"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "812-8"
+  },
+  {
+    "GROUP_CODE": "54231-6",
+    "TEST_CODE": "LL4012-2"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "57023-4-C"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "5905-5"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "704-7"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "706-2"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "711-2"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "713-8"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "731-0"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "736-9"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "742-7"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "751-8"
+  },
+  {
+    "GROUP_CODE": "57023-4",
+    "TEST_CODE": "770-8"
+  },
+  {
+    "GROUP_CODE": "57698-3",
+    "TEST_CODE": "14927-8"
+  },
+  {
+    "GROUP_CODE": "57698-3",
+    "TEST_CODE": "39469-2"
+  },
+  {
+    "GROUP_CODE": "57698-3",
+    "TEST_CODE": "46425-5"
+  },
+  {
+    "GROUP_CODE": "57778-3",
+    "TEST_CODE": "33944-0"
+  },
+  {
+    "GROUP_CODE": "57778-3",
+    "TEST_CODE": "36916-5"
+  },
+  {
+    "GROUP_CODE": "57778-3",
+    "TEST_CODE": "48378-4"
+  },
+  {
+    "GROUP_CODE": "58431-8",
+    "TEST_CODE": "14956-7"
+  },
+  {
+    "GROUP_CODE": "58431-8",
+    "TEST_CODE": "14956-7-1"
+  },
+  {
+    "GROUP_CODE": "58431-8",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "58431-8R",
+    "TEST_CODE": "14956-7R"
+  },
+  {
+    "GROUP_CODE": "58431-8R",
+    "TEST_CODE": "14957-5R"
+  },
+  {
+    "GROUP_CODE": "58431-8R",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "58447-4",
+    "TEST_CODE": "14683-7"
+  },
+  {
+    "GROUP_CODE": "58447-4",
+    "TEST_CODE": "14957-5"
+  },
+  {
+    "GROUP_CODE": "58447-4",
+    "TEST_CODE": "30000-4"
+  },
+  {
+    "GROUP_CODE": "58447-4R",
+    "TEST_CODE": "14683-7R"
+  },
+  {
+    "GROUP_CODE": "58447-4R",
+    "TEST_CODE": "14957-5R"
+  },
+  {
+    "GROUP_CODE": "58447-4R",
+    "TEST_CODE": "30000-4R"
+  },
+  {
+    "GROUP_CODE": "58931-7G",
+    "TEST_CODE": "58931-7D"
+  },
+  {
+    "GROUP_CODE": "58931-7G",
+    "TEST_CODE": "zz14725-6"
+  },
+  {
+    "GROUP_CODE": "60474-4-1",
+    "TEST_CODE": "17849-1"
+  },
+  {
+    "GROUP_CODE": "60474-4-1",
+    "TEST_CODE": "33516-6"
+  },
+  {
+    "GROUP_CODE": "60474-4-1",
+    "TEST_CODE": "60474-4"
+  },
+  {
+    "GROUP_CODE": "60474-4-1",
+    "TEST_CODE": "76141-1"
+  },
+  {
+    "GROUP_CODE": "62238-1G",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "62238-1G",
+    "TEST_CODE": "62238-1"
+  },
+  {
+    "GROUP_CODE": "62238-1GR",
+    "TEST_CODE": "14682-9R"
+  },
+  {
+    "GROUP_CODE": "62238-1GR",
+    "TEST_CODE": "62238-1R"
+  },
+  {
+    "GROUP_CODE": "625-4",
+    "TEST_CODE": "28549-4"
+  },
+  {
+    "GROUP_CODE": "625-4",
+    "TEST_CODE": "6579-7"
+  },
+  {
+    "GROUP_CODE": "625-4",
+    "TEST_CODE": "82301-3"
+  },
+  {
+    "GROUP_CODE": "625-4",
+    "TEST_CODE": "88586-3"
+  },
+  {
+    "GROUP_CODE": "62853-7",
+    "TEST_CODE": "62853-7-1"
+  },
+  {
+    "GROUP_CODE": "62853-7",
+    "TEST_CODE": "62853-7-2"
+  },
+  {
+    "GROUP_CODE": "63561-5G",
+    "TEST_CODE": "12185-5"
+  },
+  {
+    "GROUP_CODE": "63561-5G",
+    "TEST_CODE": "3173-2"
+  },
+  {
+    "GROUP_CODE": "63561-5G",
+    "TEST_CODE": "63561-5"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "14368-5"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "14371-9"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "53225-9"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-BN"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-BP"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-CN"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-CPC"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-CPD"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-CPP"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "6474-1-P"
+  },
+  {
+    "GROUP_CODE": "6474-1",
+    "TEST_CODE": "70124-3"
+  },
+  {
+    "GROUP_CODE": "648-6",
+    "TEST_CODE": "577-7"
+  },
+  {
+    "GROUP_CODE": "648-6",
+    "TEST_CODE": "6460-0"
+  },
+  {
+    "GROUP_CODE": "65634-8",
+    "TEST_CODE": "14684-5"
+  },
+  {
+    "GROUP_CODE": "65634-8",
+    "TEST_CODE": "14684-5-1"
+  },
+  {
+    "GROUP_CODE": "65634-8",
+    "TEST_CODE": "3167-4"
+  },
+  {
+    "GROUP_CODE": "69569-2M",
+    "TEST_CODE": "10334-1"
+  },
+  {
+    "GROUP_CODE": "69569-2M",
+    "TEST_CODE": "55180-4"
+  },
+  {
+    "GROUP_CODE": "69569-2M",
+    "TEST_CODE": "69569-2"
+  },
+  {
+    "GROUP_CODE": "69570-0M",
+    "TEST_CODE": "10334-1"
+  },
+  {
+    "GROUP_CODE": "69570-0M",
+    "TEST_CODE": "55180-4"
+  },
+  {
+    "GROUP_CODE": "69570-0M",
+    "TEST_CODE": "69570-0"
+  },
+  {
+    "GROUP_CODE": "71772-8",
+    "TEST_CODE": "71772-8-0"
+  },
+  {
+    "GROUP_CODE": "71772-8",
+    "TEST_CODE": "71772-8-1"
+  },
+  {
+    "GROUP_CODE": "71772-8",
+    "TEST_CODE": "71772-8-2"
+  },
+  {
+    "GROUP_CODE": "71772-8",
+    "TEST_CODE": "71772-8-3"
+  },
+  {
+    "GROUP_CODE": "71772-8",
+    "TEST_CODE": "71772-8-4"
+  },
+  {
+    "GROUP_CODE": 73401,
+    "TEST_CODE": "73401-1"
+  },
+  {
+    "GROUP_CODE": 73401,
+    "TEST_CODE": "73401-2"
+  },
+  {
+    "GROUP_CODE": "74755-0",
+    "TEST_CODE": "74755-0-1"
+  },
+  {
+    "GROUP_CODE": "74755-0",
+    "TEST_CODE": "74755-0-3"
+  },
+  {
+    "GROUP_CODE": "74764-2",
+    "TEST_CODE": "74755-0-2"
+  },
+  {
+    "GROUP_CODE": "74764-2",
+    "TEST_CODE": "74756-8"
+  },
+  {
+    "GROUP_CODE": "74764-2",
+    "TEST_CODE": "74757-6"
+  },
+  {
+    "GROUP_CODE": "777-3-1",
+    "TEST_CODE": "32623-1"
+  },
+  {
+    "GROUP_CODE": "777-3-1",
+    "TEST_CODE": "71693-6"
+  },
+  {
+    "GROUP_CODE": "777-3-1",
+    "TEST_CODE": "777-3"
+  },
+  {
+    "GROUP_CODE": "7806-3G",
+    "TEST_CODE": "41160-3D"
+  },
+  {
+    "GROUP_CODE": "7806-3G",
+    "TEST_CODE": "41161-1D"
+  },
+  {
+    "GROUP_CODE": "78444-7G",
+    "TEST_CODE": "13950-1"
+  },
+  {
+    "GROUP_CODE": "78444-7G",
+    "TEST_CODE": "32018-4"
+  },
+  {
+    "GROUP_CODE": "78444-7G",
+    "TEST_CODE": "78444-7"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-1"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-2"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-3"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-4"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-5"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-6"
+  },
+  {
+    "GROUP_CODE": "79381-0",
+    "TEST_CODE": "79381-0-7"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "14621-7M"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "1749-1"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "1797-0"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "2347-3"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "26457-2M"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "26468-9"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "26482-0"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "26514-0"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "2883-7"
+  },
+  {
+    "GROUP_CODE": "79399-2A",
+    "TEST_CODE": "33366-6"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "10333-3M"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "2346-5"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "2522-1"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "26456-4"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "26467-1"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "26479-6M"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "2882-9"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "30455-0"
+  },
+  {
+    "GROUP_CODE": "79399-2CSF",
+    "TEST_CODE": "53627-6"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "14620-9M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "14725-6M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "14747-0M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "1748-3M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "1796-2M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "26456-4M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "26467-1M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "26481-2M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "2882-9M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "30455-0M"
+  },
+  {
+    "GROUP_CODE": "79399-2PL",
+    "TEST_CODE": "53627-6M"
+  },
+  {
+    "GROUP_CODE": "87427-1",
+    "TEST_CODE": "17353-4"
+  },
+  {
+    "GROUP_CODE": "87427-1",
+    "TEST_CODE": "17357-5"
+  },
+  {
+    "GROUP_CODE": "87427-2",
+    "TEST_CODE": "17353-4"
+  },
+  {
+    "GROUP_CODE": "87427-2",
+    "TEST_CODE": "17357-5"
+  },
+  {
+    "GROUP_CODE": "87546-8",
+    "TEST_CODE": "25338-5"
+  },
+  {
+    "GROUP_CODE": "87546-8",
+    "TEST_CODE": "29676-4"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "87969-2-BN"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "87969-2-BP"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "87969-2-CN"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "87969-2-CPC"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "87969-2-CPD"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "87969-2-CPP"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "LP14398-9"
+  },
+  {
+    "GROUP_CODE": "87969-2",
+    "TEST_CODE": "LP29134-1"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "26480-4"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "30388-3"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "30403-0"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "30407-1"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-BN"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-BP"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-CN"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-CPC"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-CPD"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-CPP"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-FM"
+  },
+  {
+    "GROUP_CODE": "88147-4",
+    "TEST_CODE": "88147-4-FY"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-BN"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-BP"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-CN"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-CPC"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-CPD"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-CPP"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-FM"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "14365-1-FY"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "72162-1-A"
+  },
+  {
+    "GROUP_CODE": "88336-3",
+    "TEST_CODE": "72163-9-A"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "14328-9"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-BN"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-BP"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-CB"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-CN"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-CPC"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-CPD"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-CPP"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-MC"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-MY"
+  },
+  {
+    "GROUP_CODE": "88837-0",
+    "TEST_CODE": "88837-0-Y"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "32825-2"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "72162-1-S"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-BN"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-BP"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-CN"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-CPC"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-CPD"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-CPP"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-FM"
+  },
+  {
+    "GROUP_CODE": "88838-8",
+    "TEST_CODE": "88838-8-FY"
+  },
+  {
+    "GROUP_CODE": "88846-1",
+    "TEST_CODE": "28009-9"
+  },
+  {
+    "GROUP_CODE": "88846-1",
+    "TEST_CODE": "51487-7"
+  },
+  {
+    "GROUP_CODE": "88846-1",
+    "TEST_CODE": "59829-2"
+  },
+  {
+    "GROUP_CODE": "88846-1",
+    "TEST_CODE": "59830-0"
+  },
+  {
+    "GROUP_CODE": "88846-1",
+    "TEST_CODE": "798-9"
+  },
+  {
+    "GROUP_CODE": "90228-8",
+    "TEST_CODE": "31627-3D"
+  },
+  {
+    "GROUP_CODE": "90228-8",
+    "TEST_CODE": "53016-2D"
+  },
+  {
+    "GROUP_CODE": "90228-8",
+    "TEST_CODE": "53032-9"
+  },
+  {
+    "GROUP_CODE": "90228-8",
+    "TEST_CODE": "8076-2D"
+  },
+  {
+    "GROUP_CODE": "90228-8",
+    "TEST_CODE": "8092-9D"
+  },
+  {
+    "GROUP_CODE": "90228-8",
+    "TEST_CODE": "8094-5D"
+  },
+  {
+    "GROUP_CODE": "91134-7",
+    "TEST_CODE": "21613-5"
+  },
+  {
+    "GROUP_CODE": "91134-7",
+    "TEST_CODE": "24111-7"
+  },
+  {
+    "GROUP_CODE": "91134-7",
+    "TEST_CODE": "69935-5"
+  },
+  {
+    "GROUP_CODE": "91134-7",
+    "TEST_CODE": "69937-1"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-1"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-10"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-11"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-12"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-13"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-2"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-3"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-4"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-5"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-6"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-7"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-8"
+  },
+  {
+    "GROUP_CODE": "91134-7H",
+    "TEST_CODE": "91134-7O-9"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-1"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-10"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-11"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-12"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-13"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-2"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-3"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-4"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-5"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-6"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-7"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-8"
+  },
+  {
+    "GROUP_CODE": "91134-7O",
+    "TEST_CODE": "91134-7O-9"
+  },
+  {
+    "GROUP_CODE": "91134-7O1",
+    "TEST_CODE": "21613-5O"
+  },
+  {
+    "GROUP_CODE": "91134-7O1",
+    "TEST_CODE": "24111-7O"
+  },
+  {
+    "GROUP_CODE": "91134-7O1",
+    "TEST_CODE": "69935-5O"
+  },
+  {
+    "GROUP_CODE": "91134-7O1",
+    "TEST_CODE": "69937-1O"
+  },
+  {
+    "GROUP_CODE": "91851-6",
+    "TEST_CODE": "73732-0"
+  },
+  {
+    "GROUP_CODE": "91851-6",
+    "TEST_CODE": "91854-0"
+  },
+  {
+    "GROUP_CODE": "91851-6",
+    "TEST_CODE": "91856-5"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-1"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-10"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-11"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-12"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-13"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-14"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-15"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-16"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-17"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-18"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-19"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-2"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-3"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-4"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-5"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-6"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-7"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-8"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "91851-6O-9"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "95532-8O-1"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "95532-8O-2"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "95532-8O-3"
+  },
+  {
+    "GROUP_CODE": "91851-6H",
+    "TEST_CODE": "95532-8O-4"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-1"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-10"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-11"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-12"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-13"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-14"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-15"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-16"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-17"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-18"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-19"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-2"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-3"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-4"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-5"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-6"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-7"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-8"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "91851-6O-9"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "95532-8O-1"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "95532-8O-2"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "95532-8O-3"
+  },
+  {
+    "GROUP_CODE": "91851-6O",
+    "TEST_CODE": "95532-8O-4"
+  },
+  {
+    "GROUP_CODE": "92866-3",
+    "TEST_CODE": "16953-2"
+  },
+  {
+    "GROUP_CODE": "92866-3",
+    "TEST_CODE": "16959-9"
+  },
+  {
+    "GROUP_CODE": "92938-0-U",
+    "TEST_CODE": "2218-6"
+  },
+  {
+    "GROUP_CODE": "92938-0-U",
+    "TEST_CODE": "2232-7"
+  },
+  {
+    "GROUP_CODE": "92938-0-U",
+    "TEST_CODE": "2668-2"
+  },
+  {
+    "GROUP_CODE": "92938-0-U",
+    "TEST_CODE": "3167-4M-1"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-1"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-2"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-3"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-4"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-5"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-6"
+  },
+  {
+    "GROUP_CODE": "94499-1",
+    "TEST_CODE": "94499-1-7"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "31156-3"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "42244-4"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "42245-1"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "42246-9"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "42248-5"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "44920-7"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "44921-5"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "44922-3"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "44923-1"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "4588-0"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "94537-8-1"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "94537-8-2"
+  },
+  {
+    "GROUP_CODE": "94537-8",
+    "TEST_CODE": "94537-8-3"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-1"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-10"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-11"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-12"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-13"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-2"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-3"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-4"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-5"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-6"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-7"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-8"
+  },
+  {
+    "GROUP_CODE": "94537-8C",
+    "TEST_CODE": "94537-8C-9"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15572-1"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15581-2"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15609-1"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15634-9"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15647-1"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15663-8"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15680-2"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15682-8"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15685-1"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15691-9"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15827-9"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "15859-2"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "16018-4"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "16031-7"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "16065-5"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "24485-5"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "24488-9"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "94593-11H"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "94593-11S"
+  },
+  {
+    "GROUP_CODE": "94593-11",
+    "TEST_CODE": "94593-11V"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15530-9"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15568-9"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15590-3"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15605-9"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15606-7"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15609-1_"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15680-2_"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15682-8_"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15685-1_"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15689-3"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15691-9_"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15766-9"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15917-8"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "15957-4"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "16085-3"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "21109-4"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "25383-1"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "25454-0"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "94593-14B"
+  },
+  {
+    "GROUP_CODE": "94593-14",
+    "TEST_CODE": "94593-14G"
+  },
+  {
+    "GROUP_CODE": "95424-8",
+    "TEST_CODE": "95424-8-1"
+  },
+  {
+    "GROUP_CODE": "95424-8",
+    "TEST_CODE": "95424-8-2"
+  },
+  {
+    "GROUP_CODE": "95424-8D",
+    "TEST_CODE": "95424-8D-4"
+  },
+  {
+    "GROUP_CODE": "95424-8D",
+    "TEST_CODE": "95424-8D-5"
+  },
+  {
+    "GROUP_CODE": "95424-8D-1",
+    "TEST_CODE": "95424-8D-2"
+  },
+  {
+    "GROUP_CODE": "95424-8D-1",
+    "TEST_CODE": "95424-8D-3"
+  },
+  {
+    "GROUP_CODE": "95424-8H-1",
+    "TEST_CODE": "95424-8D-2"
+  },
+  {
+    "GROUP_CODE": "95424-8H-1",
+    "TEST_CODE": "95424-8D-3"
+  },
+  {
+    "GROUP_CODE": "95424-8L",
+    "TEST_CODE": "95424-8-1L"
+  },
+  {
+    "GROUP_CODE": "95424-8L",
+    "TEST_CODE": "95424-8-2L"
+  },
+  {
+    "GROUP_CODE": "95424-8P5",
+    "TEST_CODE": "95424-8P5-2"
+  },
+  {
+    "GROUP_CODE": "95424-8STAT",
+    "TEST_CODE": "95424-8D-4"
+  },
+  {
+    "GROUP_CODE": "95424-8STAT",
+    "TEST_CODE": "95424-8D-5"
+  },
+  {
+    "GROUP_CODE": "95532-8",
+    "TEST_CODE": "77399-4"
+  },
+  {
+    "GROUP_CODE": "95532-8",
+    "TEST_CODE": "77400-0"
+  },
+  {
+    "GROUP_CODE": "95532-8",
+    "TEST_CODE": "95535-1"
+  },
+  {
+    "GROUP_CODE": "95532-8",
+    "TEST_CODE": "95536-9"
+  },
+  {
+    "GROUP_CODE": "95532-8",
+    "TEST_CODE": "95539-3"
+  },
+  {
+    "GROUP_CODE": "95532-8O",
+    "TEST_CODE": "95532-8O-1"
+  },
+  {
+    "GROUP_CODE": "95532-8O",
+    "TEST_CODE": "95532-8O-2"
+  },
+  {
+    "GROUP_CODE": "95532-8O",
+    "TEST_CODE": "95532-8O-3"
+  },
+  {
+    "GROUP_CODE": "95532-8O",
+    "TEST_CODE": "95532-8O-4"
+  },
+  {
+    "GROUP_CODE": "95532-8O",
+    "TEST_CODE": "95532-8O-5"
+  },
+  {
+    "GROUP_CODE": "95941-1",
+    "TEST_CODE": "92131-2"
+  },
+  {
+    "GROUP_CODE": "95941-1",
+    "TEST_CODE": "92141-1"
+  },
+  {
+    "GROUP_CODE": "95941-1",
+    "TEST_CODE": "92142-9"
+  },
+  {
+    "GROUP_CODE": "95941-1",
+    "TEST_CODE": "95424-84"
+  },
+  {
+    "GROUP_CODE": "95941-1",
+    "TEST_CODE": "95424-84-1"
+  },
+  {
+    "GROUP_CODE": "95941-1CX",
+    "TEST_CODE": "92131-2CX"
+  },
+  {
+    "GROUP_CODE": "95941-1CX",
+    "TEST_CODE": "92141-1CX"
+  },
+  {
+    "GROUP_CODE": "95941-1CX",
+    "TEST_CODE": "92142-9CX"
+  },
+  {
+    "GROUP_CODE": "95941-1CX",
+    "TEST_CODE": "95424-84-1CX"
+  },
+  {
+    "GROUP_CODE": "95941-1CX",
+    "TEST_CODE": "95424-84CX"
+  },
+  {
+    "GROUP_CODE": "A0001-G",
+    "TEST_CODE": "A0001_1"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_1"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_2"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_3"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_4"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_5"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_6"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_7"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_8"
+  },
+  {
+    "GROUP_CODE": "A0002-G_G1",
+    "TEST_CODE": "A0002-G_G1_1"
+  },
+  {
+    "GROUP_CODE": "A0002-G_G1",
+    "TEST_CODE": "A0002-G_G1_2"
+  },
+  {
+    "GROUP_CODE": "A0002-G_G1",
+    "TEST_CODE": "A0002-G_G1_3"
+  },
+  {
+    "GROUP_CODE": "A0002-G_G1",
+    "TEST_CODE": "A0002-G_G1_4"
+  },
+  {
+    "GROUP_CODE": "A0002-G_G1",
+    "TEST_CODE": "A0002-G_G1_5"
+  },
+  {
+    "GROUP_CODE": "A0003-G",
+    "TEST_CODE": "A0003-G_1"
+  },
+  {
+    "GROUP_CODE": "A0004-G",
+    "TEST_CODE": "A0004-G_1"
+  },
+  {
+    "GROUP_CODE": "A0005-G",
+    "TEST_CODE": "A0005-G_1"
+  },
+  {
+    "GROUP_CODE": "ABPAN",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "ABPAN",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "ABPAN",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "ABPAN",
+    "TEST_CODE": "94505-5"
+  },
+  {
+    "GROUP_CODE": "AIMIC",
+    "TEST_CODE": "AIMIC-1"
+  },
+  {
+    "GROUP_CODE": "AIMIC",
+    "TEST_CODE": "AIMIC-2"
+  },
+  {
+    "GROUP_CODE": "AITIT",
+    "TEST_CODE": "AITIT-1"
+  },
+  {
+    "GROUP_CODE": "AITIT",
+    "TEST_CODE": "AITIT-2"
+  },
+  {
+    "GROUP_CODE": "AMPCN",
+    "TEST_CODE": "AMPCN-1"
+  },
+  {
+    "GROUP_CODE": "D0001-G",
+    "TEST_CODE": "D0001_1"
+  },
+  {
+    "GROUP_CODE": "FIMAS",
+    "TEST_CODE": 24001
+  },
+  {
+    "GROUP_CODE": "FIMAS",
+    "TEST_CODE": "75801-1"
+  },
+  {
+    "GROUP_CODE": "FIMAS",
+    "TEST_CODE": 85201
+  },
+  {
+    "GROUP_CODE": "FROID",
+    "TEST_CODE": "FROID-1"
+  },
+  {
+    "GROUP_CODE": "FROID",
+    "TEST_CODE": "FROID-2"
+  },
+  {
+    "GROUP_CODE": "G.CUL",
+    "TEST_CODE": "14620-9"
+  },
+  {
+    "GROUP_CODE": "G.CUL",
+    "TEST_CODE": "17279-1"
+  },
+  {
+    "GROUP_CODE": "G.CUL",
+    "TEST_CODE": "618-9"
+  },
+  {
+    "GROUP_CODE": "G.CUL",
+    "TEST_CODE": "87979-1"
+  },
+  {
+    "GROUP_CODE": "GXNED",
+    "TEST_CODE": "6019-4"
+  },
+  {
+    "GROUP_CODE": "GXNED",
+    "TEST_CODE": "6106-9"
+  },
+  {
+    "GROUP_CODE": "GXNED",
+    "TEST_CODE": "6136-6"
+  },
+  {
+    "GROUP_CODE": "GXNED",
+    "TEST_CODE": "6174-7"
+  },
+  {
+    "GROUP_CODE": "GXNED",
+    "TEST_CODE": "7291-8"
+  },
+  {
+    "GROUP_CODE": "GXNEDS",
+    "TEST_CODE": "6019-4"
+  },
+  {
+    "GROUP_CODE": "GXNEDS",
+    "TEST_CODE": "6106-9"
+  },
+  {
+    "GROUP_CODE": "GXNEDS",
+    "TEST_CODE": "6136-6"
+  },
+  {
+    "GROUP_CODE": "GXNEDS",
+    "TEST_CODE": "6174-7"
+  },
+  {
+    "GROUP_CODE": "GXNEDS",
+    "TEST_CODE": "6248-9"
+  },
+  {
+    "GROUP_CODE": "GXNEDS",
+    "TEST_CODE": "7291-8"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "40879-9"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6039-2"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6106-9"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6125-9"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6174-7"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6206-7"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6219-0"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6230-7"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6246-3"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6248-9"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6266-1"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6270-3"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "6848-6"
+  },
+  {
+    "GROUP_CODE": "GXNEF",
+    "TEST_CODE": "7291-8"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6061-6"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6081-4"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6167-1"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6194-5"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6218-2"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6266-1"
+  },
+  {
+    "GROUP_CODE": "GXNFV",
+    "TEST_CODE": "6848-6"
+  },
+  {
+    "GROUP_CODE": "GXNM",
+    "TEST_CODE": "40879-9"
+  },
+  {
+    "GROUP_CODE": "GXNM",
+    "TEST_CODE": "6039-2"
+  },
+  {
+    "GROUP_CODE": "GXNM",
+    "TEST_CODE": "6219-0"
+  },
+  {
+    "GROUP_CODE": "GXNM",
+    "TEST_CODE": "7291-8"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6019-4"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6125-9"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6136-6"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6206-7"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6230-7"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6242-2"
+  },
+  {
+    "GROUP_CODE": "GXNNG",
+    "TEST_CODE": "6248-9"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "10921-5"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "6070-7"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "6098-8"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "6100-2"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "6833-8"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "81792-4"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "88708-3"
+  },
+  {
+    "GROUP_CODE": "GXNPA",
+    "TEST_CODE": "9828-5"
+  },
+  {
+    "GROUP_CODE": "GXNSF",
+    "TEST_CODE": "10944-7"
+  },
+  {
+    "GROUP_CODE": "GXNSF",
+    "TEST_CODE": "6092-1"
+  },
+  {
+    "GROUP_CODE": "GXNSF",
+    "TEST_CODE": "6237-2"
+  },
+  {
+    "GROUP_CODE": "GXNSF",
+    "TEST_CODE": "6246-3"
+  },
+  {
+    "GROUP_CODE": "GXNSF",
+    "TEST_CODE": "6270-3"
+  },
+  {
+    "GROUP_CODE": "HCVFT",
+    "TEST_CODE": "ACTI"
+  },
+  {
+    "GROUP_CODE": "HCVFT",
+    "TEST_CODE": "HCVBD"
+  },
+  {
+    "GROUP_CODE": "HCVFT",
+    "TEST_CODE": "HCVGE"
+  },
+  {
+    "GROUP_CODE": "HCVFT",
+    "TEST_CODE": "IL28B"
+  },
+  {
+    "GROUP_CODE": "I1001-G",
+    "TEST_CODE": "I1001_1"
+  },
+  {
+    "GROUP_CODE": "I1001-G",
+    "TEST_CODE": "I1001_2"
+  },
+  {
+    "GROUP_CODE": "I1002-G",
+    "TEST_CODE": "I1002-G_1"
+  },
+  {
+    "GROUP_CODE": "I1003-G",
+    "TEST_CODE": "I1003-G_1"
+  },
+  {
+    "GROUP_CODE": "I1004-G",
+    "TEST_CODE": "I1004-G_1"
+  },
+  {
+    "GROUP_CODE": "IIGGL",
+    "TEST_CODE": "IIGGL-1"
+  },
+  {
+    "GROUP_CODE": "IIGGL",
+    "TEST_CODE": "IIGGL-2"
+  },
+  {
+    "GROUP_CODE": "IMLC1",
+    "TEST_CODE": "IMLC1-1"
+  },
+  {
+    "GROUP_CODE": "IMLC1",
+    "TEST_CODE": "IMLC1-2"
+  },
+  {
+    "GROUP_CODE": "Isofocusing {Inactive}",
+    "TEST_CODE": "48668-8-1"
+  },
+  {
+    "GROUP_CODE": "Isofocusing {Inactive}",
+    "TEST_CODE": "48668-8-2"
+  },
+  {
+    "GROUP_CODE": "LP29059-0",
+    "TEST_CODE": "80627-3"
+  },
+  {
+    "GROUP_CODE": "LP373693-3",
+    "TEST_CODE": "17947-3"
+  },
+  {
+    "GROUP_CODE": "LP373693-3",
+    "TEST_CODE": "33511-7-P"
+  },
+  {
+    "GROUP_CODE": "LP373693-3",
+    "TEST_CODE": "595-9"
+  },
+  {
+    "GROUP_CODE": "LP373693-3",
+    "TEST_CODE": "75357-4"
+  },
+  {
+    "GROUP_CODE": "LP373700-6",
+    "TEST_CODE": "17928-3"
+  },
+  {
+    "GROUP_CODE": "LP373700-6",
+    "TEST_CODE": "601-5"
+  },
+  {
+    "GROUP_CODE": "LP373700-6",
+    "TEST_CODE": "LP373763-4"
+  },
+  {
+    "GROUP_CODE": "LP373712-1",
+    "TEST_CODE": "10333-3"
+  },
+  {
+    "GROUP_CODE": "LP373712-1",
+    "TEST_CODE": "569-4"
+  },
+  {
+    "GROUP_CODE": "LP373712-1",
+    "TEST_CODE": "606-4"
+  },
+  {
+    "GROUP_CODE": "LP373712-1",
+    "TEST_CODE": "88236-5"
+  },
+  {
+    "GROUP_CODE": "LP373719-6",
+    "TEST_CODE": "33511-7-A"
+  },
+  {
+    "GROUP_CODE": "LP373719-6",
+    "TEST_CODE": "51723-5"
+  },
+  {
+    "GROUP_CODE": "LP373719-6",
+    "TEST_CODE": "608-0"
+  },
+  {
+    "GROUP_CODE": "LP373719-6",
+    "TEST_CODE": "6463-4"
+  },
+  {
+    "GROUP_CODE": "LP373721-2",
+    "TEST_CODE": "15378-3"
+  },
+  {
+    "GROUP_CODE": "LP373721-2",
+    "TEST_CODE": "33511-7-E"
+  },
+  {
+    "GROUP_CODE": "LP373721-2",
+    "TEST_CODE": "609-8"
+  },
+  {
+    "GROUP_CODE": "LP373721-2",
+    "TEST_CODE": "LP373721-1"
+  },
+  {
+    "GROUP_CODE": "LP373732-9",
+    "TEST_CODE": "10353-1"
+  },
+  {
+    "GROUP_CODE": "LP373732-9",
+    "TEST_CODE": "33511-7-N"
+  },
+  {
+    "GROUP_CODE": "LP373732-9",
+    "TEST_CODE": "76073-6"
+  },
+  {
+    "GROUP_CODE": "LP373732-9",
+    "TEST_CODE": "LP373731-1"
+  },
+  {
+    "GROUP_CODE": "LP373735-2",
+    "TEST_CODE": "14617-5"
+  },
+  {
+    "GROUP_CODE": "LP373735-2",
+    "TEST_CODE": "56715-6"
+  },
+  {
+    "GROUP_CODE": "LP373735-2",
+    "TEST_CODE": "87977-5"
+  },
+  {
+    "GROUP_CODE": "LP373735-2",
+    "TEST_CODE": "90271-8"
+  },
+  {
+    "GROUP_CODE": "LP373736-0",
+    "TEST_CODE": "14621-7"
+  },
+  {
+    "GROUP_CODE": "LP373736-0",
+    "TEST_CODE": "41601-6"
+  },
+  {
+    "GROUP_CODE": "LP373736-0",
+    "TEST_CODE": "574-4"
+  },
+  {
+    "GROUP_CODE": "LP373736-0",
+    "TEST_CODE": "90281-7"
+  },
+  {
+    "GROUP_CODE": "LP373738-6",
+    "TEST_CODE": "14620-9"
+  },
+  {
+    "GROUP_CODE": "LP373738-6",
+    "TEST_CODE": "17279-1"
+  },
+  {
+    "GROUP_CODE": "LP373738-6",
+    "TEST_CODE": "618-9PL"
+  },
+  {
+    "GROUP_CODE": "LP373738-6",
+    "TEST_CODE": "87979-1"
+  },
+  {
+    "GROUP_CODE": "LP373740-1",
+    "TEST_CODE": "16400-4"
+  },
+  {
+    "GROUP_CODE": "LP373740-1",
+    "TEST_CODE": "17947-3-S"
+  },
+  {
+    "GROUP_CODE": "LP373740-1",
+    "TEST_CODE": "53558-3"
+  },
+  {
+    "GROUP_CODE": "LP373740-1",
+    "TEST_CODE": "LP373740-0"
+  },
+  {
+    "GROUP_CODE": "LP373745-1",
+    "TEST_CODE": "577-7"
+  },
+  {
+    "GROUP_CODE": "LP373745-1",
+    "TEST_CODE": "6460-0"
+  },
+  {
+    "GROUP_CODE": "LP373745-1",
+    "TEST_CODE": "6460-0B"
+  },
+  {
+    "GROUP_CODE": "LP373745-1",
+    "TEST_CODE": "6460-0SP"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "13655-6"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "17964-8"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "29636-8"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "33668-5"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "6461-8"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "9397-1"
+  },
+  {
+    "GROUP_CODE": "LP373747-7",
+    "TEST_CODE": "29605-3"
+  },
+  {
+    "GROUP_CODE": "LP373747-7",
+    "TEST_CODE": "576-9"
+  },
+  {
+    "GROUP_CODE": "LP373747-7",
+    "TEST_CODE": "621-3"
+  },
+  {
+    "GROUP_CODE": "LP373747-7",
+    "TEST_CODE": "90278-3"
+  },
+  {
+    "GROUP_CODE": "LP373754-3",
+    "TEST_CODE": "19091-8"
+  },
+  {
+    "GROUP_CODE": "LP373754-3",
+    "TEST_CODE": "630-4"
+  },
+  {
+    "GROUP_CODE": "LP373754-3",
+    "TEST_CODE": "630-4C"
+  },
+  {
+    "GROUP_CODE": "LP373756-8",
+    "TEST_CODE": "11261-5"
+  },
+  {
+    "GROUP_CODE": "LP373756-8",
+    "TEST_CODE": "41026-6"
+  },
+  {
+    "GROUP_CODE": "LP373756-8",
+    "TEST_CODE": "LP373756-8V"
+  },
+  {
+    "GROUP_CODE": "LP375246-8",
+    "TEST_CODE": "534-8"
+  },
+  {
+    "GROUP_CODE": "LP375246-8",
+    "TEST_CODE": "58943-2"
+  },
+  {
+    "GROUP_CODE": "LP375248-4",
+    "TEST_CODE": "642-9"
+  },
+  {
+    "GROUP_CODE": "LP375248-4",
+    "TEST_CODE": "9824-4"
+  },
+  {
+    "GROUP_CODE": "LP375252-6",
+    "TEST_CODE": "571-1"
+  },
+  {
+    "GROUP_CODE": "LP375252-6",
+    "TEST_CODE": "58945-7"
+  },
+  {
+    "GROUP_CODE": "LP375253-4",
+    "TEST_CODE": "53909-8"
+  },
+  {
+    "GROUP_CODE": "LP375253-4",
+    "TEST_CODE": "58924-4"
+  },
+  {
+    "GROUP_CODE": "LP375255-9",
+    "TEST_CODE": "539-7"
+  },
+  {
+    "GROUP_CODE": "LP375255-9",
+    "TEST_CODE": "647-8"
+  },
+  {
+    "GROUP_CODE": "LP375256-7",
+    "TEST_CODE": "538-9"
+  },
+  {
+    "GROUP_CODE": "LP375256-7",
+    "TEST_CODE": "63433-7"
+  },
+  {
+    "GROUP_CODE": "LP375258-3",
+    "TEST_CODE": "541-3"
+  },
+  {
+    "GROUP_CODE": "LP375258-3",
+    "TEST_CODE": "656-9U"
+  },
+  {
+    "GROUP_CODE": "LP376148-5",
+    "TEST_CODE": "10688-0"
+  },
+  {
+    "GROUP_CODE": "LP376148-5",
+    "TEST_CODE": "571-0"
+  },
+  {
+    "GROUP_CODE": "LP376152-7",
+    "TEST_CODE": "10689-8"
+  },
+  {
+    "GROUP_CODE": "LP376152-7",
+    "TEST_CODE": "573-6"
+  },
+  {
+    "GROUP_CODE": "LP376160-0",
+    "TEST_CODE": "575-1"
+  },
+  {
+    "GROUP_CODE": "LP376160-0",
+    "TEST_CODE": "644-5"
+  },
+  {
+    "GROUP_CODE": "LP379800-8",
+    "TEST_CODE": "10333-3"
+  },
+  {
+    "GROUP_CODE": "LP379806-5",
+    "TEST_CODE": "33511-7-A"
+  },
+  {
+    "GROUP_CODE": "LP379808-1",
+    "TEST_CODE": "33511-7-E"
+  },
+  {
+    "GROUP_CODE": "LP379818-0",
+    "TEST_CODE": "33511-7-N"
+  },
+  {
+    "GROUP_CODE": "LP379822-2",
+    "TEST_CODE": "14617-5"
+  },
+  {
+    "GROUP_CODE": "LP379825-5",
+    "TEST_CODE": "14620-9"
+  },
+  {
+    "GROUP_CODE": "LP379826-3",
+    "TEST_CODE": "33511-7-P"
+  },
+  {
+    "GROUP_CODE": "LP379835-4",
+    "TEST_CODE": "29605-3"
+  },
+  {
+    "GROUP_CODE": "T0001-G",
+    "TEST_CODE": "T0001-G_1"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-1"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-10"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-11"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-12"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-13"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-14"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-15"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-16"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-17"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-18"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-19"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-2"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-20"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-21"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-22"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-23"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-24"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-25"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-26"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-27"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-28"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-29"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-3"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-30"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-31"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-32"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-33"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-34"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-35"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-36"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-37"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-38"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-39"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-4"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-5"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-6"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-7"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-8"
+  },
+  {
+    "GROUP_CODE": "TestPath",
+    "TEST_CODE": "47527-7O-9"
+  },
+  {
+    "GROUP_CODE": "TRPS",
+    "TEST_CODE": "TRPS-1"
+  },
+  {
+    "GROUP_CODE": "TRPS",
+    "TEST_CODE": "TRPS-2"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-1"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-2"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-3"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-4"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-5"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-6"
+  },
+  {
+    "GROUP_CODE": "zz79381-0",
+    "TEST_CODE": "79381-0-7"
+  },
+  {
+    "GROUP_CODE": "14477-4",
+    "TEST_CODE": "6474-1"
+  },
+  {
+    "GROUP_CODE": "17898-8",
+    "TEST_CODE": "14362-8"
+  },
+  {
+    "GROUP_CODE": "24317-0",
+    "TEST_CODE": "24358-4"
+  },
+  {
+    "GROUP_CODE": "24317-0",
+    "TEST_CODE": "57023-4"
+  },
+  {
+    "GROUP_CODE": "24317-0-1",
+    "TEST_CODE": "24358-4"
+  },
+  {
+    "GROUP_CODE": "24317-0-1",
+    "TEST_CODE": "57023-4"
+  },
+  {
+    "GROUP_CODE": "24317-0-1",
+    "TEST_CODE": "60474-4-1"
+  },
+  {
+    "GROUP_CODE": "24317-0-1",
+    "TEST_CODE": "777-3-1"
+  },
+  {
+    "GROUP_CODE": "24317-0C",
+    "TEST_CODE": "24358-4"
+  },
+  {
+    "GROUP_CODE": "24317-0C",
+    "TEST_CODE": "57023-4"
+  },
+  {
+    "GROUP_CODE": "34558-7",
+    "TEST_CODE": "29581-6M"
+  },
+  {
+    "GROUP_CODE": "34561-1",
+    "TEST_CODE": "29583-2M"
+  },
+  {
+    "GROUP_CODE": "34561-1M",
+    "TEST_CODE": "29583-2ME"
+  },
+  {
+    "GROUP_CODE": "57698-3",
+    "TEST_CODE": "32309-7G"
+  },
+  {
+    "GROUP_CODE": "648-6",
+    "TEST_CODE": "88837-0"
+  },
+  {
+    "GROUP_CODE": "A0002-G",
+    "TEST_CODE": "A0002-G_G1"
+  },
+  {
+    "GROUP_CODE": "LP373693-3",
+    "TEST_CODE": "10357-2"
+  },
+  {
+    "GROUP_CODE": "LP373700-6",
+    "TEST_CODE": "87969-2"
+  },
+  {
+    "GROUP_CODE": "LP373712-1",
+    "TEST_CODE": "14357-8"
+  },
+  {
+    "GROUP_CODE": "LP373719-6",
+    "TEST_CODE": "88336-3"
+  },
+  {
+    "GROUP_CODE": "LP373721-2",
+    "TEST_CODE": "14364-4"
+  },
+  {
+    "GROUP_CODE": "LP373732-9",
+    "TEST_CODE": "32026-7"
+  },
+  {
+    "GROUP_CODE": "LP373735-2",
+    "TEST_CODE": "88147-4"
+  },
+  {
+    "GROUP_CODE": "LP373736-0",
+    "TEST_CODE": "14359-4"
+  },
+  {
+    "GROUP_CODE": "LP373738-6",
+    "TEST_CODE": "14360-2"
+  },
+  {
+    "GROUP_CODE": "LP373740-1",
+    "TEST_CODE": "88838-8"
+  },
+  {
+    "GROUP_CODE": "LP373745-1",
+    "TEST_CODE": "88837-0"
+  },
+  {
+    "GROUP_CODE": "LP373746-9",
+    "TEST_CODE": "625-4"
+  },
+  {
+    "GROUP_CODE": "LP373747-7",
+    "TEST_CODE": "14363-6"
+  },
+  {
+    "GROUP_CODE": "LP373754-3",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "LP373756-8",
+    "TEST_CODE": "14361-0"
+  },
+  {
+    "GROUP_CODE": "LP379800-8",
+    "TEST_CODE": "14357-8"
+  },
+  {
+    "GROUP_CODE": "LP379806-5",
+    "TEST_CODE": "88336-3"
+  },
+  {
+    "GROUP_CODE": "LP379808-1",
+    "TEST_CODE": "14364-4"
+  },
+  {
+    "GROUP_CODE": "LP379818-0",
+    "TEST_CODE": "32026-7"
+  },
+  {
+    "GROUP_CODE": "LP379822-2",
+    "TEST_CODE": "88147-4"
+  },
+  {
+    "GROUP_CODE": "LP379825-5",
+    "TEST_CODE": "14360-2"
+  },
+  {
+    "GROUP_CODE": "LP379826-3",
+    "TEST_CODE": "10357-2"
+  },
+  {
+    "GROUP_CODE": "LP379835-4",
+    "TEST_CODE": "14363-6"
+  },
+  {
+    "GROUP_CODE": "34550-4",
+    "TEST_CODE": "2458-8D"
+  },
+  {
+    "GROUP_CODE": "34550-4",
+    "TEST_CODE": "2465-3D"
+  },
+  {
+    "GROUP_CODE": "34550-4",
+    "TEST_CODE": "2472-9D"
+  },
+  {
+    "GROUP_CODE": "47527-7OP",
+    "TEST_CODE": "47527-7O"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "13965-9D"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "20567-4"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "2132-9"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "30522-7"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "13965-9D"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "20567-4"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "2132-9"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "30522-7"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "13965-9D"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "20567-4"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "2132-9"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "30522-7"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "13965-9D"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "20567-4"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "2132-9"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "24601-7"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "30522-7"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "83104-0"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "24601-7"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXN51597-3G",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXN51597-3G",
+    "TEST_CODE": "14995-5"
+  },
+  {
+    "GROUP_CODE": "GXN51597-3G",
+    "TEST_CODE": "51597-3"
+  },
+  {
+    "GROUP_CODE": "GXNCOG",
+    "TEST_CODE": "3255-7"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "14805-6"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "2157-6"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "26881-3"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "48065-7"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "94505-5"
+  },
+  {
+    "GROUP_CODE": "GXNFD1",
+    "TEST_CODE": "75377-2"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "1988-5"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "20567-4"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "1988-5"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "32700-7"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "75377-2"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "83073-7"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "22264-6"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "25407-8"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "32723-9"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "33317-9"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "40674-4"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "40678-5"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "41418-5"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "43094-2"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "5388-4"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "56922-8"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "7847-7"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "7977-2"
+  },
+  {
+    "GROUP_CODE": "GXNKS",
+    "TEST_CODE": "80660-4"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "83073-7"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "6768-6"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "77615-3"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "83073-7"
+  },
+  {
+    "GROUP_CODE": "GXNMF",
+    "TEST_CODE": "20568-2"
+  },
+  {
+    "GROUP_CODE": "GXNMF",
+    "TEST_CODE": "83096-8R"
+  },
+  {
+    "GROUP_CODE": "GXNMF",
+    "TEST_CODE": "83098-4"
+  },
+  {
+    "GROUP_CODE": "GXNMF",
+    "TEST_CODE": "83103-2"
+  },
+  {
+    "GROUP_CODE": "GXNMF-CT",
+    "TEST_CODE": "20568-2"
+  },
+  {
+    "GROUP_CODE": "GXNMF-CT",
+    "TEST_CODE": "83096-8R"
+  },
+  {
+    "GROUP_CODE": "GXNMF-CT",
+    "TEST_CODE": "83098-4"
+  },
+  {
+    "GROUP_CODE": "GXNMF-CT",
+    "TEST_CODE": "83103-2"
+  },
+  {
+    "GROUP_CODE": "GXNST",
+    "TEST_CODE": "24110-9"
+  },
+  {
+    "GROUP_CODE": "GXNST",
+    "TEST_CODE": "40710-6"
+  },
+  {
+    "GROUP_CODE": "GXNST",
+    "TEST_CODE": "45135-1"
+  },
+  {
+    "GROUP_CODE": "GXNST",
+    "TEST_CODE": "56888-1"
+  },
+  {
+    "GROUP_CODE": "GXNSTD1",
+    "TEST_CODE": "56888-1"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "24110-9"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "31147-2"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "40710-6"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "45135-1"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "47003-9"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "56888-1"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "90461-5"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "90464-9"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "94505-5"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "83100-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "83100-8"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "94505-5"
+  },
+  {
+    "GROUP_CODE": "GXNTD",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNTD",
+    "TEST_CODE": "14957-5"
+  },
+  {
+    "GROUP_CODE": "GXNTG1",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GXNTG1",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GXNTG1",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXNTG2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GXNTG2",
+    "TEST_CODE": "30567-2D"
+  },
+  {
+    "GROUP_CODE": "GXNTG2",
+    "TEST_CODE": "56536-6"
+  },
+  {
+    "GROUP_CODE": "GXNTG2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GXNTG2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "24601-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "24601-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "83100-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "14292-7A"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "83100-8"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "13965-9D"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "14805-6"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "2157-6"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "30522-7"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "13965-9D"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "14805-6"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "2157-6"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "30522-7"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "48065-7"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "17843-4"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "25390-6"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "3013-0A"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "83073-7"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "83082-8"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "83083-6"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "83084-4"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "83085-1"
+  },
+  {
+    "GROUP_CODE": "GXNUF",
+    "TEST_CODE": "9679-2"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "17843-4"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "25390-6"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "3013-0A"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "83073-7"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "83084-4"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "83085-1"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "83112-3"
+  },
+  {
+    "GROUP_CODE": "GXNUM",
+    "TEST_CODE": "9679-2"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "14955-9"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "20567-4"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "2132-9"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "2284-8"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "2601-3"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "13967-5"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "20568-2"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "83096-8R"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "83098-4"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "83103-2"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "83104-0"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "83109-9R"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "83104-0"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "110-101"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "13955-0"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "14798-3"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "1751-7"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "24558-9"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "24601-7"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "25010-0"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "2885-2"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "36572-6"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "42148-7"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "5193-8"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "5196-1"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "83121-4"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "83126-3"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "14771-0"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "14933-6"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "20568-2"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "3026-2"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "3053-6"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "83098-4"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "83103-2"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "11580-8"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "14682-9"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "14879-1"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "1742-6"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "1920-8"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "2000-8"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "20568-2"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "22664-7"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "2324-2"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "3026-2"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "3053-6"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "83071-1"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "83082-8"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "83083-6"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "83098-4"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "83103-2"
+  },
+  {
+    "GROUP_CODE": "47527-7OP",
+    "TEST_CODE": "95532-8O"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "DIAM1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "DIAM2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "DIAM3",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "DIAM4",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GOLD1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GOLD2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GOLD3",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GOLD4",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GOLD5",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNCOG",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNCOG",
+    "TEST_CODE": "34714-6G"
+  },
+  {
+    "GROUP_CODE": "GXNCOG",
+    "TEST_CODE": "63561-5G"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "35706-1"
+  },
+  {
+    "GROUP_CODE": "GXNCOV",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNFD1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNFD1",
+    "TEST_CODE": "87546-8"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "34714-6G"
+  },
+  {
+    "GROUP_CODE": "GXNFD2",
+    "TEST_CODE": "87546-8"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "22527-6"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "87546-8"
+  },
+  {
+    "GROUP_CODE": "GXNFE",
+    "TEST_CODE": "LP373700-6"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "34714-6G"
+  },
+  {
+    "GROUP_CODE": "GXNG",
+    "TEST_CODE": "35706-1"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "34714-6G"
+  },
+  {
+    "GROUP_CODE": "GXNLB1-CT",
+    "TEST_CODE": "35706-1"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "34714-6G"
+  },
+  {
+    "GROUP_CODE": "GXNLB2-CT",
+    "TEST_CODE": "35706-1"
+  },
+  {
+    "GROUP_CODE": "GXNMF",
+    "TEST_CODE": "24125-7"
+  },
+  {
+    "GROUP_CODE": "GXNMF-CT",
+    "TEST_CODE": "24125-7"
+  },
+  {
+    "GROUP_CODE": "GXNMF-CT",
+    "TEST_CODE": "54231-6"
+  },
+  {
+    "GROUP_CODE": "GXNST",
+    "TEST_CODE": "92866-3"
+  },
+  {
+    "GROUP_CODE": "GXNSTD1",
+    "TEST_CODE": "91134-7O"
+  },
+  {
+    "GROUP_CODE": "GXNSTD2",
+    "TEST_CODE": "91134-7O"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNT1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNT1-AB",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNT2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNT2-AB",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTD",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTD",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "GXNTD",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNTD",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTG1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTG2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNTIF1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNTIF2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNTIM1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNTIM2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNTM1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "GXNTM2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "1995-0G"
+  },
+  {
+    "GROUP_CODE": "GXNVIT",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "GXNWF",
+    "TEST_CODE": "21198-7G"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "PLAT1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "PLAT2",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "PLAT3",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "PLAT4",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "5231-5"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "PLAT5",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "SILVER",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "SUWO1",
+    "TEST_CODE": "62853-7"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "14630-8G"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "24317-0"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "50554-5"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "50556-0"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "57698-3"
+  },
+  {
+    "GROUP_CODE": "SUWO2",
+    "TEST_CODE": "62853-7"
+  }
+]

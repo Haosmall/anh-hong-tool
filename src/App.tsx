@@ -1,26 +1,41 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import { groupTestCode } from "./helper";
+import { getGroupCodeOfTestCodeNo } from "./helper/copyLab";
+import { exportExcelFile, readExcelFile } from "./helper/readExcelFile";
+import { ExcelObject } from "./types";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	useEffect(() => {
+		// groupTestCode();
+		// getGroupCodeOfTestCodeNo();
+	}, []);
+
+	const inputChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
+		const files = (e.target.files && Array.from(e.target.files)) || [];
+
+		if (files.length > 0) {
+			try {
+				const data = await readExcelFile(files);
+				const result = getGroupCodeOfTestCodeNo(data.groupno, data.groupOnly);
+				// console.log(result);
+				exportExcelFile(result);
+			} catch (error) {
+				alert("An error occurred, please try again");
+			}
+		}
+	};
+
+	return (
+		<div>
+			<input
+				type="file"
+				accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+				onChange={inputChange}
+			/>
+		</div>
+	);
 }
 
 export default App;
