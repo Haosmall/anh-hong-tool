@@ -1,6 +1,6 @@
 import data_file from "../assets/raw_data.json";
 import { DataObject, GroupCodeData, GroupTestCodeData } from "../types";
-import constants from "./constants";
+import constants from "../helper/constants";
 
 export const groupTestCode = (): void => {
 	const {

@@ -1,4 +1,4 @@
-import { writeJsonFile } from ".";
+import { writeJsonFile } from "./groupcode";
 import { DataObject, GroupCodeData, GroupComponent } from "../types";
 // import constants from "./constants";
 
