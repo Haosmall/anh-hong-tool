@@ -1,7 +1,7 @@
 {
   "main.css": "/anh-hong-tool/static/css/main.c7d1ac36.chunk.css",
-  "main.js": "/anh-hong-tool/static/js/main.2ea18a80.chunk.js",
-  "main.js.map": "/anh-hong-tool/static/js/main.2ea18a80.chunk.js.map",
+  "main.js": "/anh-hong-tool/static/js/main.b6061906.chunk.js",
+  "main.js.map": "/anh-hong-tool/static/js/main.b6061906.chunk.js.map",
   "runtime~main.js": "/anh-hong-tool/static/js/runtime~main.4c0aa2c4.js",
   "runtime~main.js.map": "/anh-hong-tool/static/js/runtime~main.4c0aa2c4.js.map",
   "static/js/2.1543c109.chunk.js": "/anh-hong-tool/static/js/2.1543c109.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.89b26869.chunk.js": "/anh-hong-tool/static/js/3.89b26869.chunk.js",
   "static/js/3.89b26869.chunk.js.map": "/anh-hong-tool/static/js/3.89b26869.chunk.js.map",
   "index.html": "/anh-hong-tool/index.html",
-  "precache-manifest.226257c0ca2055f6b5fec88e1b556f23.js": "/anh-hong-tool/precache-manifest.226257c0ca2055f6b5fec88e1b556f23.js",
+  "precache-manifest.c2f9c3b1d6282879a3590d76b205b73f.js": "/anh-hong-tool/precache-manifest.c2f9c3b1d6282879a3590d76b205b73f.js",
   "service-worker.js": "/anh-hong-tool/service-worker.js",
   "static/css/main.c7d1ac36.chunk.css.map": "/anh-hong-tool/static/css/main.c7d1ac36.chunk.css.map"
 }
