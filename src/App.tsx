@@ -3,8 +3,13 @@ import logo from "./logo.svg";
 import "./App.css";
 import { groupTestCode } from "./services/groupcode";
 import { getGroupCodeOfTestCodeNo } from "./services/copyLab";
-import { exportExcelFile, readExcelFile } from "./helper/readExcelFile";
+import {
+	exportExcelFile,
+	readExcelFile,
+	readExcelFile2,
+} from "./helper/readExcelFile";
 import { ExcelObject } from "./types";
+import { getGroupComponent } from "./services/groupComponent";
 
 function App() {
 	useEffect(() => {
@@ -20,8 +25,10 @@ function App() {
 			try {
 				const data = await readExcelFile(files);
 				const result = getGroupCodeOfTestCodeNo(data.groupno, data.groupOnly);
-				// console.log(result);
 				exportExcelFile(result);
+
+				// const data = await readExcelFile2(files);
+				// getGroupComponent(data);
 			} catch (error) {
 				alert("An error occurred, please try again");
 			}

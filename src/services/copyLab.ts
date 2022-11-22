@@ -28,7 +28,7 @@ export const getGroupCodeOfTestCodeNo = (
 
 		temp.GROUP_CODE = listGroup;
 		result.push(temp);
-
+ 
 		temp2.GROUP_CODE = listGroup.join(", ");
 		test.push(temp2);
 	});

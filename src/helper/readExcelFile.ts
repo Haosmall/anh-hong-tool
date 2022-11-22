@@ -39,7 +39,22 @@ export const readExcelFile = async (files: File[]): Promise<ExcelObject> => {
 	return Promise.resolve(data);
 };
 
-export const exportExcelFile = (csvData: DataObject[]) => {
+export const readExcelFile2 = async (files: File[]): Promise<DataObject[]> => {
+	const data: DataObject[] = [];
+
+	const rows = await readXlsxFile(files[0], { sheet: 1 });
+	rows.map((ele, index) => {
+		if (index > 0) {
+			const GROUP_CODE = (ele[0] || "").toString();
+			const TEST_CODE = (ele[1] || "").toString();
+			const obj: DataObject = { GROUP_CODE, TEST_CODE };
+			data.push(obj);
+		}
+	});
+	return Promise.resolve(data);
+};
+
+export const exportExcelFile = (csvData: any[]) => {
 	const fileType =
 		"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=UTF-8";
 
