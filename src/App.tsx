@@ -10,6 +10,7 @@ import {
 } from "./helper/readExcelFile";
 import { ExcelObject } from "./types";
 import { getGroupComponent } from "./services/groupComponent";
+import { readXML } from "./services/readXML";
 
 function App() {
 	useEffect(() => {
@@ -23,12 +24,14 @@ function App() {
 
 		if (files.length > 0) {
 			try {
-				const data = await readExcelFile(files);
-				const result = getGroupCodeOfTestCodeNo(data.groupno, data.groupOnly);
-				exportExcelFile(result);
+				// const data = await readExcelFile(files);
+				// const result = getGroupCodeOfTestCodeNo(data.groupno, data.groupOnly);
+				// exportExcelFile(result);
 
 				// const data = await readExcelFile2(files);
 				// getGroupComponent(data);
+
+				readXML(files);
 			} catch (error) {
 				alert("An error occurred, please try again");
 			}

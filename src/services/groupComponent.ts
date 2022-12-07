@@ -28,6 +28,24 @@ export const getGroupComponent = (rawData: DataObject[]): void => {
 
 	// const lv2 = getGroupInGroup(testCodeOfGroupLv1, groupCodeInTestCode);
 	const lv2 = getGroupInGroupV2(testCodeOfGroupLv1, groupCodeInTestCode);
+	// expandGroup(lv2);
+};
+
+const expandGroup = (glv2: GroupTestCodeData[]) => {
+	const result: DataObject[] = [];
+
+	glv2.map((ele) => {
+		ele.TEST_CODE.map((tcEle, index) => {
+			result.push({ GROUP_CODE: ele.GROUP_CODE, TEST_CODE: tcEle });
+			// if (index === 0) {
+			// 	result.push({ GROUP_CODE: ele.GROUP_CODE, TEST_CODE: tcEle });
+			// } else {
+			// 	result.push({ GROUP_CODE: "", TEST_CODE: tcEle });
+			// }
+		});
+	});
+	console.log({ result });
+	exportExcelFile(result);
 };
 
 const getGroupInGroupV2 = (
@@ -50,8 +68,8 @@ const getGroupInGroupV2 = (
 	const test2: any[] = [];
 
 	groupTestCodeLv1.map((ele) => {
+		const temp = ele;
 		if (listGroupNotInTestCodeObj.includes(ele)) {
-			const temp = ele;
 			const temp2 = {
 				// ...ele,
 				GROUP_CODE: ele.GROUP_CODE,
@@ -77,9 +95,10 @@ const getGroupInGroupV2 = (
 			groupCodeLv2.push(temp);
 			test2.push(temp2);
 		} else {
+			groupCodeLv2.push(temp);
 			test2.push({
 				GROUP_CODE: ele.GROUP_CODE,
-				TEST_CODE_STRING: ele.TEST_CODE.join(", "),
+				TEST_CODE_STRING: ele.TEST_CODE.join(","),
 			});
 		}
 	});
@@ -89,8 +108,13 @@ const getGroupInGroupV2 = (
 	// );
 	console.log({ test2 });
 	console.log({ groupTestCodeLv1 });
-	exportExcelFile(test2);
-	// writeJsonFile(test2);
+	// exportExcelFile(test2);
+	const test3 = groupCodeLv2.map((ele) => ({
+		GROUP_CODE: ele.GROUP_CODE,
+		TEST_CODE_STRING: ele.TEST_CODE.join(','),
+	}));
+ exportExcelFile(test3);
+	console.log({ groupCodeLv2 });
 
 	return groupCodeLv2;
 };
