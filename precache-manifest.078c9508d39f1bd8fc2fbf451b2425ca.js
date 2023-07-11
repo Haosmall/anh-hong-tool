@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e6c778ea1007349e940c",
-    "url": "/anh-hong-tool/static/css/main.c7d1ac36.chunk.css"
+    "revision": "ea949c77d027b8c26c91",
+    "url": "/anh-hong-tool/static/css/main.198e9f69.chunk.css"
   },
   {
-    "revision": "e6c778ea1007349e940c",
-    "url": "/anh-hong-tool/static/js/main.b6061906.chunk.js"
+    "revision": "ea949c77d027b8c26c91",
+    "url": "/anh-hong-tool/static/js/main.6125c574.chunk.js"
   },
   {
     "revision": "02d5211c3b3b6321158e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/anh-hong-tool/static/js/3.89b26869.chunk.js"
   },
   {
-    "revision": "76b0c1a3c347e2c68d100ee96ba5e542",
+    "revision": "000914a30cac283054ff1f595013a243",
     "url": "/anh-hong-tool/index.html"
   }
 ];
