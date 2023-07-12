@@ -1,4 +1,6 @@
 import data_file from "../assets/raw_data.json";
+import data_no_break from "../assets/data_no_break.json";
+import data_break from "../assets/data_break.json";
 import { DataObject, GroupCodeData, GroupTestCodeData } from "../types";
 import constants from "../helper/constants";
 import { exportExcelFile } from "../helper/readExcelFile";
@@ -64,11 +66,22 @@ const getGroupInGroupV2 = (
 					temp.TEST_CODE = [...oldGroupCode, ...inTestCodeEle.TEST_CODE];
 					//
 					const oldData = { ...temp2 };
+					// const str = oldData.TEST_CODE_STRING.replace(
+					// 	inTestCodeEle.GROUP_CODE,
+					// 	`[${inTestCodeEle.GROUP_CODE}: ${inTestCodeEle.TEST_CODE.join(
+					// 		", "
+					// 	)}]`
+					// );
+					// ======
+					// const str = oldData.TEST_CODE_STRING.replace(
+					// 	inTestCodeEle.GROUP_CODE,
+					// 	`[${inTestCodeEle.GROUP_CODE} ${isBreak(
+					// 		inTestCodeEle.GROUP_CODE
+					// 	)}: ${inTestCodeEle.TEST_CODE.join(", ")}]`
+					// );
 					const str = oldData.TEST_CODE_STRING.replace(
 						inTestCodeEle.GROUP_CODE,
-						`[${inTestCodeEle.GROUP_CODE}: ${inTestCodeEle.TEST_CODE.join(
-							", "
-						)}]`
+						inTestCodeEle.TEST_CODE.join(", ")
 					);
 					// temp2.GROUP_CODE = [...oldData.GROUP_CODE, ...inGroupEle.GROUP_CODE];
 					temp2.TEST_CODE_STRING = str;
@@ -93,6 +106,12 @@ const getGroupInGroupV2 = (
 	// writeJsonFile(test2);
 
 	return groupCodeLv2;
+};
+
+const isBreak = (groupCode: string) => {
+	if (data_break.includes(groupCode)) return "(break)";
+	if (data_no_break.includes(groupCode)) return "(no_break)";
+	console.log("aa", groupCode);
 };
 
 const getGroupInGroup = (
