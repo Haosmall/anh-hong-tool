@@ -12,6 +12,7 @@ import { ExcelObject, GroupTestCodeData } from "./types";
 import { getGroupComponent } from "./services/groupComponent";
 import { compare2File, splitTestCode } from "./services/check2file";
 import UploadFile from "./components/UploadFile";
+import LoadingOverlay from "./components/LoadingOverlay";
 
 function App() {
 	useEffect(() => {
@@ -19,6 +20,8 @@ function App() {
 		// getGroupCodeOfTestCodeNo();
 		document.title = "Anh Hong";
 	}, []);
+
+	const [loading, setLoading] = useState<Boolean>(false);
 
 	const [flag, setFlag] = useState({ data1: false, data2: false });
 	const [data1, setData1] = useState<GroupTestCodeData[]>([]);
@@ -86,8 +89,10 @@ function App() {
 
 	const handleOnInputChange = async (files: File[]) => {
 		// const files = (e.target.files && Array.from(e.target.files)) || [];
+		setLoading(true);
 		const data = await readExcelFile2(files);
 		getGroupComponent(data);
+		setLoading(false);
 	};
 
 	return (
@@ -97,7 +102,7 @@ function App() {
 				accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
 				onChange={inputChange}
 			/> */}
-
+			{loading && <LoadingOverlay />}
 			<UploadFile onChange={handleOnInputChange} />
 
 			{/* <div>

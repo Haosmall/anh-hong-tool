@@ -55,7 +55,7 @@ const UploadFile: React.FC<Props> = (props) => {
 
 	return (
 		<label htmlFor="inputFile" className="drop-container" id="dropcontainer">
-			<span className={`drop-title`}>Drop files here</span>
+			<span className={`drop-title`}>Drop file here</span>
 			or
 			<input
 				id="inputFile"
