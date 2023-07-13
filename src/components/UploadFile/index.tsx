@@ -1,10 +1,4 @@
-import React, {
-	DragEvent,
-	PropsWithChildren,
-	useEffect,
-	useState,
-} from "react";
-import PropTypes from "prop-types";
+import React, { PropsWithChildren, useEffect } from "react";
 import "./style.scss";
 
 interface Props extends PropsWithChildren<any> {

@@ -22,3 +22,8 @@ export interface ExcelObject {
 	groupno: string[];
 	groupOnly: GroupComponent[];
 }
+
+export interface ExcelObject {
+	groupno: string[];
+	groupOnly: GroupComponent[];
+}

@@ -1,3 +1,28 @@
+import type { SelectProps } from "antd";
+
+enum OptionValues {
+	GROUP_COMPONENT,
+	GROUP_CODE,
+	COMPARE_2_FILES,
+}
+
+const options: SelectProps["options"] = [
+	{ value: OptionValues.GROUP_COMPONENT, label: "Find group component" },
+	{ value: OptionValues.GROUP_CODE, label: "Find group code" },
+	{ value: OptionValues.COMPARE_2_FILES, label: "Compare 2 files" },
+];
+
+enum ErrorMessages {
+	INVALID_DATA = "Invalid data",
+	UNDEFINED = "An error occurred, please reload the page",
+}
+
+enum MessageTypes {
+	SUCCESS = "success",
+	ERROR = "error",
+	WARNING = "warning",
+}
+
 const copy_lab_code: string[] = [
 	"1007-4",
 	"643-6-CN",
@@ -7534,4 +7559,8 @@ export default {
 	copy_lab_code,
 	groupno,
 	groupOnly,
+	options,
+	OptionValues,
+	ErrorMessages,
+	MessageTypes,
 };
