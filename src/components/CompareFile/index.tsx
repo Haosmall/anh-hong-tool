@@ -1,18 +1,16 @@
+import { message } from "antd";
 import React, {
 	PropsWithChildren,
 	useContext,
 	useEffect,
 	useState,
 } from "react";
-import "./style.scss";
-import UploadFile from "../UploadFile";
-import { readExcelFile2 } from "../../helper/readExcelFile";
-import { getGroupComponent } from "../../services/groupComponent";
 import { AppContext } from "../../contexts/AppContextProvider";
-import { message } from "antd";
 import constants from "../../helper/constants";
+import { readExcelFile2 } from "../../helper/readExcelFile";
 import { compare2File, splitTestCode } from "../../services/check2file";
 import { GroupTestCodeData } from "../../types";
+import "./style.scss";
 
 interface Props extends PropsWithChildren<any> {}
 
