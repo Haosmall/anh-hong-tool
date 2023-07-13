@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anh-hong-tool/static/css/main.c047d754.css",
-    "main.js": "/anh-hong-tool/static/js/main.6d74adf6.js",
+    "main.js": "/anh-hong-tool/static/js/main.bd4cc236.js",
     "static/js/787.7c044136.chunk.js": "/anh-hong-tool/static/js/787.7c044136.chunk.js",
     "index.html": "/anh-hong-tool/index.html",
     "main.c047d754.css.map": "/anh-hong-tool/static/css/main.c047d754.css.map",
-    "main.6d74adf6.js.map": "/anh-hong-tool/static/js/main.6d74adf6.js.map",
+    "main.bd4cc236.js.map": "/anh-hong-tool/static/js/main.bd4cc236.js.map",
     "787.7c044136.chunk.js.map": "/anh-hong-tool/static/js/787.7c044136.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c047d754.css",
-    "static/js/main.6d74adf6.js"
+    "static/js/main.bd4cc236.js"
   ]
 }
